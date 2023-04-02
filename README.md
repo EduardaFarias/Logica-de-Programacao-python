@@ -1,11 +1,8 @@
 # Lógica de Programação com Python
 
-
-
 <p align="justify">
 Olá, nesse repositório você vai encontrar todos os códigos usado no slide do workshop sobre Lógica de Programação com Python. Devido ao tempo de duração do worskshop não pudemos colocar todos os códigos em execução, expliquei como funcionavam, mas para visuzilzar e entender melhor é necessário que vocês executem o código para fixar funcionamento
 </p>
-<img align="rigth"  heigth="250" src="/imgs/vii-elas-por-elas.png">
 
 ## O que você irá precisar para executar os códigos?
 
@@ -16,7 +13,7 @@ Olá, nesse repositório você vai encontrar todos os códigos usado no slide do
 
 Usar um editor de códigos pode ser mais confortável do que fazer o código direto no ava. Para python você pode utilizar a IDE **PyCharm** uma ferramenta própria para manipular python, que vai dizer em tempo de digitação por exemplo, algum erro.
 
-- <a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=linux" target="_blank">Clique aqui </a></p> para conhecer e instalar o PyCharm, é recomendado que você utilize a versão Community(versão gratuita a menos que a UFCG possua alguma licença, mas não é do meu conhecimento).
+- <a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=linux" target="_blank">Clique aqui </a> para conhecer e instalar o PyCharm, é recomendado que você utilize a versão Community(versão gratuita a menos que a UFCG possua alguma licença, mas não é do meu conhecimento).
 
 ### Visual Studio Code
 Existe outra ferramenta que funciona para várias linguagens diferentes, inclusive a que vocês usaram durante o workshop:
