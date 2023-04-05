@@ -4,6 +4,7 @@
 Olá, nesse repositório você vai encontrar todos os códigos usado no slide do workshop sobre Lógica de Programação com Python. Devido ao tempo de duração do worskshop não pudemos colocar todos os códigos em execução, expliquei como funcionavam, mas para visuzilzar e entender melhor é necessário que vocês executem o código para fixar funcionamento
 </p>
 
+- <a href="https://www.canva.com/design/DAFeNBUFooQ/vsj5IhUmWKYAW33kez646w/edit?utm_content=DAFeNBUFooQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Clique aqui </a> para acessar o slide
 ## O que você irá precisar para executar os códigos?
 
 - Um editor de códigos
